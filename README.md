@@ -1,4 +1,4 @@
-# restfulrewardpointer
+# restful reward pointer
 kforce.charter.restfulrewardpointer
 
 For the Portals Platform team in Maryland Heights, MO, the homework assignment listed below,
