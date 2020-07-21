@@ -1,7 +1,7 @@
 # restful reward pointer
 kforce.charter.restfulrewardpointer
 
-give it a try by hiting Swagger UI: localhost:8080/swagger-ui/index.html
+give it a try by hitting Swagger UI: localhost:8080/swagger-ui/index.html
 
 For the Portals Platform team in Maryland Heights, MO, the homework assignment listed below,
 completed using Java 8+, Spring Boot, REST and any other relevant languages/technologies:
